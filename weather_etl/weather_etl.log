@@ -1,0 +1,13 @@
+
+2024-11-23 23:28:52,563 - INFO - Initializing weather ETL pipeline...
+2024-11-23 23:28:52,582 - INFO - Starting ETL process...
+2024-11-23 23:28:52,583 - INFO - Processing data for London,UK
+2024-11-23 23:28:52,866 - INFO - Successfully saved data for London,UK
+2024-11-23 23:28:52,866 - INFO - Processing data for New York,US
+2024-11-23 23:28:53,086 - INFO - Successfully saved data for New York,US
+2024-11-23 23:28:53,086 - INFO - Processing data for Tokyo,JP
+2024-11-23 23:28:53,356 - INFO - Successfully saved data for Tokyo,JP
+2024-11-23 23:28:53,356 - INFO - Processing data for Sydney,AU
+2024-11-23 23:28:53,671 - INFO - Successfully saved data for Sydney,AU
+2024-11-23 23:28:53,671 - INFO - Processing data for Paris,FR
+2024-11-23 23:28:53,941 - INFO - Successfully saved data for Paris,FR
